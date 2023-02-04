@@ -61,11 +61,12 @@ window.onload = () => {
 <body>
 
     <center>
-        <h1 style="font-size:9em">iArxic</h1>
+        <h1 style="font-size:9em">arxy</h1>
         <div>
         greetings.<br><br>
         <ul>
             <li><a href="https://github.com/iArxic">my github</a></li>
+            <li><a href="https://devforum.roblox.com/u/iarxic/summary">devforum profile</a></li>
             <li><a href="https://www.roblox.com/users/460176812/profile">my roblox profile</a></li>
             <li><a href="https://www.roblox.com/groups/12531630/The-Sitting-Simulator-Community">sitting sim</a></li>
             <li><a href="https://www.youtube.com/watch?v=fx2Z5ZD_Rbo">cool video</a></li>
